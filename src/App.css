@@ -1,0 +1,29 @@
+.banner-height {
+  max-height: 450px;
+}
+.cart {
+  color: white;
+  font-size: 18px;
+  display: inline-flex;
+}
+.cart-icon {
+  position: relative;
+  top: 3px;
+  right: 8px;
+}
+.slick-list {
+  margin-right: 40px;
+}
+/* .slick-slide {
+  padding:10px;
+  background-color:red;
+  padding: 0;
+  margin-right: 2.5px;
+  margin-left: 2.5px;
+} */
+.slider-margin {
+  margin-top: 56px;
+}
+.slider-margin2 {
+  margin-top: 80px;
+}
